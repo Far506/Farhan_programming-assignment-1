@@ -1,0 +1,212 @@
+    .btn {
+        background-color: #006A50;
+        color: white;
+        height: 56px;
+        width: 270px;
+    }
+    
+    .bd {
+        color: #0e0e0ee1;
+    }
+    
+    .s1 {
+        margin-left: 100px;
+    }
+    
+    .monument {
+        background: #C6E4D6;
+        /*width: 1470px;
+        height: 480px;*/
+        height: 480px;
+        padding: 40px 10px 10px 10px;
+        border-radius: 30px;
+        align-items: center;
+        background-position: center;
+        margin-top: 50px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
+    .banner {
+        margin-left: auto;
+        height: 400px;
+        width: 474px;
+        float: right;
+        margin-right: 100px;
+    }
+    
+    .display {
+        background-color: #F1F1F3;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
+    .vision {
+        background: #7696ce;
+        display: inline-block;
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-bottom: 20px;
+    }
+    
+    .btn3 {
+        color: white;
+        background-color: #5490F5;
+        display: flex;
+    }
+    
+    .Energy {
+        background: #C6E4D6;
+        display: inline-block;
+        border-radius: 20px;
+        margin-left: 190px;
+        margin-bottom: 20px;
+    }
+    
+    .btn4 {
+        color: white;
+        background-color: #09A15C;
+        display: flex;
+    }
+    
+    .transformation {
+        background: #F7EBCF;
+        display: inline-block;
+        border-radius: 20px;
+        margin-left: 100px;
+        margin-bottom: 20px;
+    }
+    
+    .btn5 {
+        color: white;
+        background-color: #FFC239;
+        display: flex;
+    }
+    
+    .launchers {
+        background-color: #F1F1F3;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
+    .btn6 {
+        color: white;
+        background-color: #006A50;
+        justify-content: end;
+    }
+    
+    .launches1 {
+        background: white;
+        margin-right: 30px;
+    }
+    
+    .launches2 {
+        background: white;
+        margin-right: auto;
+    }
+    
+    .Donate {
+        background-color: #F1F1F3;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    
+    .btn7 {
+        padding: 10px 20px;
+        font-size: 18px;
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 150px;
+        height: 110px;
+        width: 170px;
+    }
+    
+    .amount {
+        width: 100%;
+        padding: 10px;
+        font-size: 30px;
+        border: 1px solid white;
+        border-radius: 6px;
+        margin-bottom: 30px;
+    }
+    
+    .btn8 {
+        padding: 10px 20px;
+        font-size: 18px;
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: #C6E4D6;
+        margin-left: 150px;
+        height: 110px;
+        width: 170px;
+        display: flex table-row;
+    }
+    
+    .btn9 {
+        padding: 10px 20px;
+        font-size: 18px;
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 150px;
+        height: 110px;
+        width: 170px;
+    }
+    
+    .btn10 {
+        padding: 10px 20px;
+        font-size: 18px;
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 150px;
+        height: 110px;
+        width: 170px;
+        margin-right: 10px;
+    }
+    
+    .p1 {
+        padding: 10px 20px;
+        font-size: 20px;
+        border: 1px solid white;
+        border-radius: 10px;
+        background-color: white;
+        margin-left: 30px;
+        text-align: center;
+    }
+    
+    .btn12 {
+        color: white;
+        background-color: #006A50;
+        margin-left: 635px;
+    }
+    
+    .p2 {
+        margin-left: 150px;
+    }
+    
+    .p3 {
+        text-align: center;
+    }
+    
+    .p4 {
+        text-align: end;
+        height: 50%;
+        margin-right: 500px;
+    }
+    
+    .p5 {
+        text-align: end;
+        align-items: self-end;
+    }
+    
+    .img1 {
+        margin-left: 800px;
+        margin-right: 5800px;
+        display: top;
+    }
+    
+    .im2 {
+        margin-bottom: auto;
+    }
